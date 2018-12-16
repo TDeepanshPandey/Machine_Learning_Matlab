@@ -10,7 +10,9 @@ Relevant Equation:
 ![alt_text](https://github.com/TDP4you/Machine_Learning_Matlab/blob/master/Logistic%20Regression/eq3.JPG)
 
 Dataset:
+
 ![alt_text](https://github.com/TDP4you/Machine_Learning_Matlab/blob/master/Logistic%20Regression/Dataset.jpg)
 
 Output:
+
 ![alt_text](https://github.com/TDP4you/Machine_Learning_Matlab/blob/master/Logistic%20Regression/Decision%20Boundary.jpg)
