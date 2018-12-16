@@ -16,3 +16,6 @@ I have build a logistic Regression model to predict whether a student gets admit
 **Output Visualization:**
 
 ![alt_text](https://github.com/TDP4you/Machine_Learning_Matlab/blob/master/Logistic%20Regression/Decision%20Boundary.jpg)
+
+
+**The Accuracy of this model for this dataset it 89%**
