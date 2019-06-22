@@ -4,7 +4,7 @@ During the Week 6 Assignment, I have implemented the backpropagation algorithm f
 
 **The Accuracy of the model is 96.5%**
 
-**Screenshot - **
+**Screenshot -**
 
 ![alt_text](https://github.com/TDeepanshPandey/Machine_Learning_Matlab/blob/master/Neural%20Network%20Learning/hiddenlayer.jpg)
 
