@@ -10,4 +10,4 @@ I have implemented Principal Component Analysis for dimensionality reduction and
 
 ![alt_text](https://github.com/TDeepanshPandey/Machine_Learning_Matlab/blob/master/Principal%20Component%20Analysis%20and%20K-means/Comparision.jpg)
 
-*Fig - Comparision between Original and Compressed Images*
+*Fig - Comparision between Original and Compressed Image*
