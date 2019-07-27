@@ -6,4 +6,6 @@ I have done Machine Learning course offered from Stanford University by Andrew N
 
 *Course URL - "https://www.coursera.org/learn/machine-learning/"*
 
+Certificate Link - "https://www.coursera.org/account/accomplishments/certificate/M4TP6EDK4EFJ"
+
 ![alt_text](https://github.com/TDP4you/Machine_Learning_Matlab/blob/master/Linear%20Regression%20Single%20Feature/Figure%202.jpg)
